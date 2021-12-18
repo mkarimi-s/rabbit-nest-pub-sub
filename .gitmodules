@@ -1,0 +1,3 @@
+[submodule "subscriber"]
+  path = subscriber
+  url = https://github.com/mkarimi-s/rabbit-nest-sub
